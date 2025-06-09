@@ -39,9 +39,28 @@ chatbot-project/
 └── README.md # Project instructions
 
 
-## 🚀 Getting Started
+## 🔧 How to Run This Project
+Follow these steps to run the chatbot on your local machine:
 
-### 1. Clone the Repository
+1. Clone the Repository
 
-```bash
-git clone
+git clone https://github.com/your-username/your-repo-name.git
+
+2. Open the Project Folder
+
+cd your-repo-name
+
+3. Run the Project
+You can run the project using either method:
+
+✅ Option 1: Open in Browser
+Locate the index.html file
+
+Double-click to open it in your web browser
+
+✅ Option 2: Use Live Server (VS Code)
+Open the folder in Visual Studio Code
+
+Install the Live Server extension
+
+Right-click on index.html and select "Open with Live Server"
