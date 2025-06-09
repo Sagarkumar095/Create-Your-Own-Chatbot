@@ -22,11 +22,26 @@ This chatbot allows users to type messages and get automated responses based on 
 
 ## 🧰 Tech Stack
 
+chatbot-project/
+│
+├── index.html # Main HTML structure
+├── style.css # CSS styling
+├── script.js # JavaScript bot logic
+└── README.md # Project instructions
+
+
 - **HTML5** – Structure of the chatbot
 - **CSS3** – Styling and layout
 - **JavaScript (ES6)** – Logic for chatbot interaction
 
 ---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone 
 
 ## 📁 Folder Structure
 
